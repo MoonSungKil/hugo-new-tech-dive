@@ -8,6 +8,7 @@ paginate = 999
 
 
 [params]
+dateFormat = "Jan 2, 2006, 3:04PM"
 header_image = "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 bottom_image = "https://images.unsplash.com/photo-1544380904-c686aad2fc40?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 description = """At New Tech Dive, we believe in the power of knowledge to propel us into the future. Our platform brings together a diverse range of technology-focused books and journals, providing a comprehensive resource for anyone passionate about staying informed in the ever-evolving tech landscape.
